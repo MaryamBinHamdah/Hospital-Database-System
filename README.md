@@ -69,7 +69,8 @@ To ensure the system scales efficiently, we focused on performance:
 
 ## 💬 Personal Reflection
 
-This was one of the most challenging and rewarding projects we have undertaken. It taught us the critical importance of meticulous design and the profound impact of optimization on system performance. Moving from a theoretical ERD to a fully functional, high-performance database solidified my understanding of the entire data lifecycle. The pride I feel in this project comes from the depth of its complexity and the elegance of the final, structured solution.
+This was one of the hardest but most satisfying projects we have done. It showed us how important good design is and how much optimization can improve speed. Turning a basic ERD into a working, fast database helped me understand the whole data process from start to finish. I feel proud of this project because it was so complex, yet the final result was clean and well organized.
+
 
 ---
 
